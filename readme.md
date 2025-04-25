@@ -2,7 +2,7 @@
 
 A beautiful, minimal tip calculator app built with SwiftUI for iOS devices.
 
-![Tip Calculator App Screenshot](/tip_buddy)
+![Tip Calculator App Screenshot](tip_buddy.png)
 
 ## My First iOS App Journey
 
